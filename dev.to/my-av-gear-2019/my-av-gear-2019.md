@@ -23,7 +23,10 @@ this is the camera I prefer to use for recording/presenting, when looking the be
 
 ##### Settings
 
-- Autofocus rectangle stuff goes here
+Explain need to make this setting (movie mode on the dial)
+
+![](hdmi-setting-menu.png)
+![](hdmi-setting.png)
 
 #### Logitech Brio
 
