@@ -63,6 +63,8 @@ Just to make it easier, here's a list of everything mentioned in this post.
 
 - [Canon M6 Mark II mirrorless camera](https://www.amazon.com/gp/product/B07ZJSB146)
 - [Sigma 16mm f/1.4 DC DN Contemporary Lens for Canon EF-M](https://www.amazon.com/gp/product/B081QPDKM9)
+- [Canon EF-M 32mm f/1.4 STM Lens](https://www.amazon.com/dp/B07H4F65YR)
+- [Canon AC Adapter Kit ACK-E17](https://shop.usa.canon.com/shop/en/catalog/ac-adapter-kit-ack-e17)
 - [Logitetch Brio webcam](https://www.amazon.com/Logitech-BRIO-Conferencing-Recording-Streaming/dp/B01N5UOYC4)
 - [Webaround Green Screen](https://thewebaround.com/product/the-big-shot/)
 - [Elgato Stream Deck XL](https://www.amazon.com/Elgato-Stream-Deck-XL-customizable/dp/B07RL8H55Z)
