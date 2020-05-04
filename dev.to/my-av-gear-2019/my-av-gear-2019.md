@@ -52,6 +52,17 @@ blah blah blah lighting stuff
 
 list of all the various software, etc. make sections about subject areas, and then go into configuration details as needed
 
+If you want to be a big nerd, I install all my software via [Homebrew](https://brew.sh/), and I keep an updated [Brewfile](https://github.com/mattstratton/matty-dotfiles/blob/master/Brewfile) with the stuff I use. 
+
+### OBS
+
+Note that for OBS I needed to add a 300ms audio delay for recording, etc, becasue of the lag from the Focusrite vs the camera (sync issue).
+
+
+
+
+
+
 ## TODO
 
 this is where I'll put stuff I am still working through.
