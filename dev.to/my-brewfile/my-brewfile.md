@@ -1,5 +1,3 @@
-# My Brewfile
-
 I am a big fan of using [Homebrew](https://brew.sh) to install/update all the software on my MacBook. One thing that not everyone knows about is the idea of a [`Brewfile`](https://github.com/Homebrew/homebrew-bundle), which is a text file that lists all the various packages, etc, and you can then use `brew bundle` to install the things in the `Brewfile` (along with their dependencies). Brewfiles support more than just Homebrew packages; you can use a `Brewfile` to list out casks, as well as apps installed from the Mac App Store.
 
 My current `Brewfile` is [available on GitHub](https://github.com/mattstratton/matty-dotfiles/blob/master/Brewfile), but I thought it might be helpful to go through it and provide some explanation of each package/application, and what I use them for.
@@ -11,7 +9,7 @@ This is not a comprehensive list of all the packages I have installed, but just 
 - [asciinema](https://formulae.brew.sh/formula/asciinema): Record what you do in a terminal! Fancy!
 - [autojump](https://formulae.brew.sh/formula/autojump): Little fun tool to make it easier to [jump to a different directory](https://github.com/wting/autojump).
 - [diff-so-fancy](https://formulae.brew.sh/formula/diff-so-fancy): Make your [diffs look cooler ](https://github.com/so-fancy/diff-so-fancy)and more readable.
-- [direnv](https://formulae.brew.sh/formula/direnv): I don't use this as much as I should, but let's you do fancy stuff like [adjust environment variables based on the current directory](https://direnv.net/).
+- [direnv](https://formulae.brew.sh/formula/direnv): I don't use this as much as I should, but lets you do fancy stuff like [adjust environment variables based on the current directory](https://direnv.net/).
 - [gh](https://formulae.brew.sh/formula/gh): Command-line [tool for GitHub stuff](https://github.com/cli/cli). New, but cool.
 - [git-extras](https://formulae.brew.sh/formula/git-extras): Lots of [extra helper stuff](https://github.com/tj/git-extras/blob/master/Commands.md) for `git`
 - [hub](https://formulae.brew.sh/formula/hub): Some GitHub [things](https://github.com/github/hub) that `gh` doesn't quite do...yet.
@@ -29,17 +27,17 @@ This is not a comprehensive list of all the packages I have installed, but just 
 
 ## Casks
 
-Homebrew can also install applications that have installers, etc. I try to only install software using a cask, so that I can keep it tracked with my `Brewfile`. Note that some of these applications are not free and will require you to input a license key the first time you start them up. I haven't included *every* cask that I use, because do you really care that I install Docker via cask? No, you don't.
+Homebrew can also install applications that have installers, etc. I try to only install software using a cask so that I can keep it tracked with my `Brewfile`. Note that some of these applications are not free and will require you to input a license key the first time you start them up. I haven't included *every* cask that I use, because do you really care that I install Docker via cask? No, you don't.
 
 - [1password](https://formulae.brew.sh/cask/1password): This is my main password management application. I personally like it because I can use it across my mobile devices as well as all my computers. Use the one you prefer, of course, but you should be using one!
 - [adobe-creative-cloud](https://formulae.brew.sh/cask/adobe-creative-cloud): This gets the main application installer/control on my machine so that I can install the various Adobe applications that I am licensed to use. 
 - [aerial](https://formulae.brew.sh/cask/aerial): An OS X screensaver that uses the same images/look as the Apple TV screensaver. 
 - [airfoil](https://formulae.brew.sh/cask/airfoil): A great product from Rogue Amoeba to redirect output to various Airplay devices. I use this to stream Spotify to my HomePod.
 - [audio-hijack](https://formulae.brew.sh/cask/audio-hijack): Rogue Amoeba again! Dump audio from any application to be recorded, etc.
-- [authy](https://formulae.brew.sh/cask/authy): As much as possible, I use Authy for my OTP/multi-factor authentication. I can use it on my phone, as well as keep them in sync across all my devices. Means I don't need to create a new code for Google, etc, when I get a new phone!
+- [authy](https://formulae.brew.sh/cask/authy): As much as possible, I use Authy for my OTP/multi-factor authentication. I can use it on my phone, as well as keep them in sync across all my devices. This means I don't need to create a new code for Google, etc when I get a new phone!
 - [alfred](https://formulae.brew.sh/cask/alfred): Task launcher (and more). I'll eventually write up a post detailing the various Alfred workflows that make my life easier. Replaces Spotlight for launching apps by search, and also includes a great clipboard replacement.
 - [bartender](https://formulae.brew.sh/cask/bartender): Small utility that you don't know you needed until you try it. Lets you hide various things in the Mac menubar. Awesome.
-- [beyond-compare](https://formulae.brew.sh/cask/beyond-compare): I use this for diffing files. Maybe it's force of habit, maybe you have a better tool you like. YMMV.
+- [beyond-compare](https://formulae.brew.sh/cask/beyond-compare): I use this for diffing files. Maybe it's a force of habit, maybe you have a better tool you like. YMMV.
 - [cakebrew](https://formulae.brew.sh/cask/cakebrew): A GUI in front of Homebrew. Necessary? No. Kind of neat? Yes.
 - [dash](https://formulae.brew.sh/cask/dash): Great tool for quick access to documentation on various tools, languages, etc. Coupled with Alfred, it's amazing.
 - [dropbox](https://formulae.brew.sh/cask/dropbox): I go back and forth with Dropbox; I keep my documents in iCloud, but Dropbox is great for syncing certain files (for example, I keep my Alfred settings in sync via Dropbox) and also, this is where I keep images, movie files, etc.
@@ -53,7 +51,7 @@ Homebrew can also install applications that have installers, etc. I try to only 
 - [krisp](https://formulae.brew.sh/cask/krisp): Noise cancellation, in case you are taking a Zoom call in a noisy area.
 - [logitech-presentation](https://formulae.brew.sh/cask/logitech-presentation) - I mention this one because it's kind of annoying; this only installs the *installer* for the Logitech Spotlight remote; you will then need to run the installer from where it gets dumped at a location like this: `/usr/local/Caskroom/logitech-presentation/1.54.84/LogiPresentation Installer.app`
 - [macdown](https://formulae.brew.sh/cask/macdown): My favorite Markdown editor.
-- [moom](https://formulae.brew.sh/cask/moom): Window management tool. I use this a lot. I have custom configurations for placement of windows on the screen, and Moom lets me move windows there with a keystroke. Love it.
+- [moom](https://formulae.brew.sh/cask/moom): Window management tool. I use this a lot. I have custom configurations for the placement of windows on the screen, and Moom lets me move windows there with a keystroke. Love it.
 - [soundsource](https://formulae.brew.sh/cask/soundsource): Lets me control audio on a per-app basis, adjusting the volume and output device for individual apps, etc.
 - [tower](https://formulae.brew.sh/cask/tower): Most of the time, I use `git` at the command line, but this is a nice GUI on top of it.
 - [witch](https://formulae.brew.sh/cask/witch): Enhance task switcher, making it easier to tab between windows, etc, not just apps.
@@ -98,3 +96,4 @@ The first column is the ID that you will need. You also need the *exact* app nam
 ```
 mas "Bear", id: 1091189122
 ```
+It's that easy!
