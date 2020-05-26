@@ -34,7 +34,9 @@ So I switched to the 32mm Canon lens; the problem is that now it's too *long* of
 
 I currently am using the 32mm lens, but have the camera mounted as far back as possible (limited by the fact that there is, well, a wall behind my desk). It's an acceptable distance at this point, but I do wish I could get it a couple inches further back to have perfection.
 
-Speaking of mounting...I use the [Elgato Multi Mount](https://www.corsair.com/us/en/Categories/Products/Elgato-Gaming/Multi-Mount/p/10AAB9901) and [Elgato Multi Mount Flex Arm Kit](https://www.corsair.com/us/en/Categories/Products/Elgato-Gaming/Multi-Mount-Flex-Arm-Kit/p/10AAC9901) to mount my camera (actually, right now I'm not using the flex-arm kit, because of the aforementioned issue with location of the camera).
+Speaking of mounting...I use the [Elgato Multi Mount](https://www.corsair.com/us/en/Categories/Products/Elgato-Gaming/Multi-Mount/p/10AAB9901) and [Elgato Multi Mount Flex Arm Kit](https://www.corsair.com/us/en/Categories/Products/Elgato-Gaming/Multi-Mount-Flex-Arm-Kit/p/10AAC9901) to mount my camera (I use the smallest part of the flex-arm kit, just to get it back a little bit).
+
+![](camera-mount.png)
 
 Another key thing you want if you are rocking a dSLR or a mirrorless camera is a "dummy" battery adapter. This keeps you from having to keep swapping in and out batteries. The good news is, these work generally pretty well. The bad news is, they are super hard to track down (at least the [one I needed](https://shop.usa.canon.com/shop/en/catalog/ac-adapter-kit-ack-e17) was). It took several attempts to get one, and I ended up having to buy it from an eBay seller in the UK. 
 
@@ -96,7 +98,11 @@ If you want to be a big nerd, I install all my software via [Homebrew](https://b
 Note that for OBS I needed to add a 300ms audio delay for recording, etc, becasue of the lag from the Focusrite vs the camera (sync issue).
 
 
+### Audio Software
 
+#### Loopback
+
+#### SoundSource
 
 
 
