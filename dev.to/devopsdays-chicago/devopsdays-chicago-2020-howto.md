@@ -9,7 +9,7 @@ stuff about why did we do one day, how did we pick the schedule, things we learn
 
 however talk about how we knew we didn't have to do "talks in the morning, open spaces in the afternoon" due to laws of physics thing
 
-issue with speakers not knowing the proper length for talks (devopsdays talks usually 30 minutes, etc)
+One interesting thing that occured was due to us deviating from the "usual" DevOpsDays talk length (30 minutes), several speakers didn't notice that the length had changed! We had one speaker turn in a 25 minute recording; when I pointed this out to them, they said "oh, I thought I was being helpful by making it shorter", as they hadn't seen that the length was 20 minutes, not 30. This is a reminder to be extra explicit with details like this to your speakers!
 
 ## Participant Experience
 
