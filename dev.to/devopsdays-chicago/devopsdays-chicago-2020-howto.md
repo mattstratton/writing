@@ -136,20 +136,29 @@ For fun, we had our [yak mascot join one of the hosts for the last fireside chat
 Our largest cost for the event was the AV - while it was a high number, this included the costs for professional recording of each speaker, plus having AV Chicago produce the event for us (including being on-site for the day of the event, including multiple cameras and setups for the hosts and fireside chats). Overall, the event still ended up costing us about 30% of what our in-person event usually costs (food and venue costs are always the highest, and you don't have those when you go virtually). Our event was free, but we were able to cover the AV costs with sponsor revenue.
 
 ## Sponsors
-experimenting with what it meant to be a sponsor, etc
+With the move to virtual, things change with regard to sponsorships. We had the luxury of not being completely dependent upon sponsorship revenue for this event, so we were able to "experiment" a little bit with what it meant to sponsor DevOpsDays Chicago (that is to say, we could take the risk of offering different types of sponsorship, and if we didn't get many, we would still be able to do the event). Our hope was to be able to help sponsors and other events learn and adapt to this new way.
 
 ### Sponsorship levels and benefits
 
+Our sponsorship offerings were inspired by our traditional levels, but with some changes (due to the fact that we didn't have physical sponsor booths). You can see what levels we offered on our [sponsor page](https://devopsdays.org/events/2020-chicago/sponsor) or check out the [entire prospectus](https://assets.devopsdays.org/events/2020/chicago/2020-chicago-devopsdays-prospectus.pdf) for more details.
+
+Interesting things to note:
+
+- Gold sponsors were provided a text and a video channel in Discord for their use to interact with participants. Silver sponsors had a text channel, but no video channel.
+- Gold and Silver sponsors had the ability to have their company logo added as a custom emojii inside Discord
+- Gold sponsors could provide a 3 minute "pitch" video that would play during sponsor break times (this was to replace the "1 minute pitch on the stage" that our Gold sponsors usually get).
+
 ### Sponsor channel setup
-Note that we considered doing a "role" in Discord for this, but didn't, but we probably would in the future. 
+We considered doing a "role" in Discord for sponsors, but didn't, as we thought it would complicate the onboarding of sponsors. We probably would do this the future, however. 
 
 ### Sponsor onboarding
 
-## Speaker experience
+we created a [sponsor info page](https://devopsdays.org/events/2020-chicago/sponsor-info) on our website, which we shared with all sponsors, which contained all the relevent information and onboarding details. We also recorded a [video guide to Discord](https://youtu.be/rOZM4h_oYgA) to give a "howto" on the Discord process, and how to use the video channels, especially.
 
-### Speaker comms
+In retrospect, it would have been good to provide more "non-technical" onboarding to sponsors; in addition to "this is how to use the platform", it woudl be good to help give sponsors suggestions and ideas on how to interact with participants more effectively in the virtual space - "we have a booth, come see us!" doesn't work in the virtual world. 
 
-### Virtual speaker dinner
+As an example, we had very polarized feedback from our sponsors; some said they had next to zero engagement, and others said they had a lot of great engagement! This was 100% dependant on how the sponsor chose to interact with participants. Having a guide around this would make the experience much better for all sponsors.
+
 
 ## Overall promo stuff/misc
 We did a few things to help promote the event and make the experience better and smoother for participants - and also to make it more fun! This included some onboarding/training materials to help particpants find their way in the new format, but we also really spent a lot of time and effort on making the whole thing feel very much like "DevOpsDays Chicago". For example, the "DevOps Yak" is a big part of our event's branding and feel, so we included the yak in all sorts of ways!
@@ -165,10 +174,6 @@ We created a short, fun video that was a spoof of a scene from *Love, Actually*,
 
 {% youtube uts4RmxU1SQ %}
 
-### Interstitial videos
-"We'll be right yak"/ devops deep thoughts
-
-blah blah fun stuff, deep thoguhts, yak, etc
 
 
 
